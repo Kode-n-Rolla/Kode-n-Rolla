@@ -55,7 +55,7 @@ I am a web coder and modile app developer with no code tools <img src="https://m
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">
-  Thanks for your time to read my profile!
+  Thanks for your time to see my profile!
   <img src="https://user-images.githubusercontent.com/111082113/196870348-87259ffc-36fa-4a46-b989-57c235b19cf4.gif" width="200"/>
 </h2>
 
