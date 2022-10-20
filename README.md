@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id='header' align='center'>
+  <img src='https://i.gifer.com/QRUC.gif width='100'/>
+</div>
+
+
 <!--
 **Kode-n-Rolla/Kode-n-Rolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
