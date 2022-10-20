@@ -22,13 +22,11 @@
 ### :man_technologist: About Me : 
 I am a web coder and modile app developer with no code tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :thumbsup: I’m working as a frontend and backend for building web applications with code and without.
+- :thumbsup: I’m working as a frontend and backend for building web applications with code and without.:keyboard:
 
 - :computer: Exploring Technical Content Writing.
 
 - :zap: In my free time, I upgrade my code skills.
-
-- :keyboard:I like soft sounds of quality keyboard, when I press keys
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_egin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
 
@@ -56,6 +54,10 @@ I am a web coder and modile app developer with no code tools <img src="https://m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2 align="center">
+  Thanks for your time to read my profile!
+  <img src="https://user-images.githubusercontent.com/111082113/196870348-87259ffc-36fa-4a46-b989-57c235b19cf4.gif" width="200"/>
+</h2>
 
 <!--
 **Kode-n-Rolla/Kode-n-Rolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
