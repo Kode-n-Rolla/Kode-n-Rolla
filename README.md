@@ -48,6 +48,18 @@ I am a web coder and modile app developer with no code tools <img src="https://m
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&theme=dark&background=000000)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Kode-n-Rolla/Kode-n-Rolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
