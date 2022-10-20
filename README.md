@@ -1,9 +1,52 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<div id='header' align='center'>
-  <img src='https://i.gifer.com/QRUC.gif width='100'/>
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=82a1493by8n9uz596k9v500n5qhria8g7samoqj599y93fyr&rid=giphy.gif&ct=g" width="150"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/paul-egin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/111082113/196859583-e1e2e773-d7cb-452a-b947-51d5af81236e.gif" width="500" height="250"/>
+</div>
+
+### :man_technologist: About Me : 
+I am a web coder and modile app developer with no code tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :thumbsup: I’m working as a frontend and backend for building web applications with code and without.
+
+- :computer: Exploring Technical Content Writing.
+
+- :zap: In my free time, I upgrade my code skills.
+
+- :keyboard:I like soft sounds of quality keyboard, when I press keys
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_egin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavsScript" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="dj" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 **Kode-n-Rolla/Kode-n-Rolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +61,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+Heavy
+![QRUC](https://user-images.githubusercontent.com/111082113/196855314-0ca0c9b1-f8b0-458e-abc6-8e77d5a1c7f9.gif)
+
+For count views profile
+<img src="https://komarev.com/ghpvc/?username=Kode-n-Rolla&style=flat-square&color=blue" alt=""/>
+
+Icons Tools
+https://github.com/devicons/devicon/tree/master/icons
+
+Emoji
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
