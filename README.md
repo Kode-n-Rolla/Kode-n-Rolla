@@ -20,7 +20,7 @@
 </div>
 
 ### :man_technologist: About Me : 
-I am a Python coder and modile app developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Python coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :thumbsup: I’m working with machine learning.:keyboard:
 
