@@ -9,11 +9,11 @@
   </a>
 </div>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h1> -->
 
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/111082113/196859583-e1e2e773-d7cb-452a-b947-51d5af81236e.gif" width="500" height="250"/>
@@ -62,7 +62,7 @@ I am a Python coder.
 
 <h2 align="center">
   Thanks for your time to see my profile!
-  <img src="https://user-images.githubusercontent.com/111082113/196870348-87259ffc-36fa-4a46-b989-57c235b19cf4.gif" width="200"/>
+<!--   <img src="https://user-images.githubusercontent.com/111082113/196870348-87259ffc-36fa-4a46-b989-57c235b19cf4.gif" width="200"/> -->
 </h2>
 
 <!--
