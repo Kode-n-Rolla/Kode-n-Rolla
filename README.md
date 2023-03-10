@@ -23,7 +23,7 @@
 I am a Python coder. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-- :thumbsup: I’m working at pentesting and machine learning.:keyboard:
+- :thumbsup: I’m working at pentesting.:keyboard:
 
 - :computer: Exploring Technical Content Writing.
 
