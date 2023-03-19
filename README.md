@@ -20,7 +20,7 @@
 </div> -->
 
 ### :man_technologist: Hey, there! About Me : 
-I am a Python coder. 
+I am an Ethical Hacker. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 - :thumbsup: I’m working at pentesting.:keyboard:
