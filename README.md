@@ -20,7 +20,7 @@
 </div> -->
 
 ### :man_technologist: Hey, there! About Me : 
-I am a non certificate Ethical Hacker. 
+I am an Ethical Hacker. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 - :thumbsup: I am looking for a job in Pentest.:keyboard:
