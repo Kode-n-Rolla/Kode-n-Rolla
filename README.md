@@ -23,11 +23,11 @@
 I am an Ethical Hacker. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-- :thumbsup: I am looking for a job in Pentest.:keyboard:
+- :thumbsup: I am looking for a job in Penetration testing:keyboard:
 
-- :computer: Exploring Technical Content Writing.
+- :computer: Exploring Technical Content Writing
 
-- :zap: All of my free time, I upgrade my code skills.
+- :zap: All of my free time, I upgrade my code skills
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_egin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
 
@@ -36,14 +36,27 @@ I am an Ethical Hacker.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali" alt="Kali" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" title="Parrot" alt="Parrot" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="BurpSuite" alt="BurpSuite" width="45" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="45" height="40"/>&nbsp;
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" title="WireShark" alt="WireShark" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" title="Enum4linux" alt="Enum4linux" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="JohnTheRipper" alt="JohnTheRipper" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" title="HashCat" alt="HashCat" width="45" height="45"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; -->
+  </div>
+  <div>
+  <h4>Basic knowlegde:</h4>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" title="PowerShell" alt="PowerShell" width="45" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavsScript" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
