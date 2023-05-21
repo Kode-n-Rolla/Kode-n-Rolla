@@ -27,7 +27,7 @@ I am a Cyber Security Specialist.
 
 - :computer: Exploring Technical Content Writing
 
-- :zap: All of my free time, I upgrade my code skills
+- :zap: All of my free time, I upgrade my code, network, search vulnerabilities skills
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_egin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
 
