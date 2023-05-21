@@ -20,7 +20,7 @@
 </div> -->
 
 ### :man_technologist: Hey, there! About Me : 
-I am an Ethical Hacker. 
+I am a Cyber Security Specialist. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 - :thumbsup: I am looking for a job in Penetration testing:keyboard:
