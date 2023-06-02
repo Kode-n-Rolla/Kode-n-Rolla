@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=30&duration=6000&pause=5000&color=F2F7F1&center=true&vCenter=false&width=500&height=100&lines=Hey%2C+there!+👋)](https://git.io/typing-svg)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
 </div>
@@ -18,7 +18,7 @@
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/111082113/196859583-e1e2e773-d7cb-452a-b947-51d5af81236e.gif" width="500" height="250"/>
 </div> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=6000&pause=5000&color=F2F7F1&vCenter=true&width=500&height=75&lines=Hey%2C+there!)](https://git.io/typing-svg)
+
 ### :man_technologist: About Me : 
 I am a Cyber Security Specialist. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
