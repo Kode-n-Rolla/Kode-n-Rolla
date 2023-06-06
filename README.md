@@ -28,7 +28,7 @@ I am a Cyber Security Specialist.
 
 - :computer: Exploring Technical Content Writing
 
-- :zap: All of my free time, I upgrade my code, network, search vulnerabilities skills
+- :zap: All of my free time, I upgrade my code, network and search vulnerabilities skills
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_egin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
 
@@ -74,7 +74,7 @@ I am a Cyber Security Specialist.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&theme=highcontrast&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark&custom_title=Used_Languages&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">
   Thanks for your time to see my profile!
