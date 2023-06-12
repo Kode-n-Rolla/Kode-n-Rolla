@@ -28,8 +28,6 @@ I am a Cyber Security Specialist.
 
 - :computer: Exploring Technical Content Writing
 
-- :zap: Contantly upgrading code skills
-
 - 	&#128681; Participate in CTF
 
 - 	&#128270; Looking for vulnerabilities
@@ -102,6 +100,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- :zap:
 Heavy
 ![QRUC](https://user-images.githubusercontent.com/111082113/196855314-0ca0c9b1-f8b0-458e-abc6-8e77d5a1c7f9.gif)
 
