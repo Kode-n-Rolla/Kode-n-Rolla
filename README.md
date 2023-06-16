@@ -34,7 +34,7 @@ I am a Cyber Security Specialist.
 
 - 	&#128270; Looking for vulnerabilities
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-paul_egin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
 
 ---
 
