@@ -24,7 +24,7 @@
 I am a Cyber Security Specialist. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-- :thumbsup: Looking for a job in Penetration testing:keyboard:
+- :thumbsup: Looking for a job in Penetration Testing:keyboard:
 
 - :computer: Exploring Technical Content Writing
 
