@@ -26,7 +26,7 @@ I am a Cyber Security Specialist.
 
 - :thumbsup: Looking for a job in Penetration Testing:keyboard:
 
-- 🔭 Currently working on my <a href='https://github.com/Kode-n-Rolla/pentesting_time'> Pentest </a> Repository
+- 🔭 Currently working on my <a href='https://github.com/Kode-n-Rolla/pentesting_time'> PenTesting </a> Repository
 
 - :computer: Exploring Technical Content Writing
 
