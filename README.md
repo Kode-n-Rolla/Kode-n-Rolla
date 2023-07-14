@@ -25,7 +25,7 @@
 I am a Cyber Security Specialist. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-- :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard:
+<!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
 
 - 🔭 Currently working on my <a href='https://github.com/Kode-n-Rolla/pentesting_time'> PenTesting </a> Repository
 
