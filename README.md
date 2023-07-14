@@ -25,7 +25,7 @@
 I am a Cyber Security Specialist. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-- :thumbsup: Looking for a job in Penetration Testing:keyboard:
+- :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard:
 
 - 🔭 Currently working on my <a href='https://github.com/Kode-n-Rolla/pentesting_time'> PenTesting </a> Repository
 
@@ -33,7 +33,7 @@ I am a Cyber Security Specialist.
 
 - 	&#128681; Participate in CTF
 
-- 	&#128270; Looking for vulnerabilities
+- 	&#128270; Bug Bounty Hunter
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/)
 
