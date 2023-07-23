@@ -42,14 +42,14 @@ I am a Cyber Security Specialist.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="45" height="45"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" title="Parrot OS" alt="Parrot OS" width="45" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="45" height="45"/>&nbsp;
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="BurpSuite" alt="BurpSuite" width="45" height="40"/>&nbsp;
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="45" height="40"/>&nbsp;
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="BurpSuite" alt="BurpSuite" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="40" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" title="WireShark" alt="WireShark" width="45" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" title="Enum4linux" alt="Enum4linux" width="45" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="JohnTheRipper" alt="JohnTheRipper" width="45" height="45"/>&nbsp;
@@ -61,8 +61,8 @@ I am a Cyber Security Specialist.
   </div>
   <div>
   <h4>Basic knowlegde:</h4>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" title="PowerShell" alt="PowerShell" width="45" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavsScript" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
