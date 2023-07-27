@@ -31,9 +31,9 @@ I am a Cyber Security Specialist.
 
 - :computer: Exploring Technical Content Writing
 
-- 	&#128681; Participate in CTF
+- 	&#128681; Participating in CTF
 
-- 	&#128270; Bug Bounty Hunter
+- 	&#128270; Bug Bounty Huntering
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/) -->
 
