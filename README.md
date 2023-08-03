@@ -48,7 +48,7 @@ I am a Cyber Security Specialist.
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" title="Parrot OS" alt="Parrot OS" width="45" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="45" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="BurpSuite" alt="BurpSuite" width="45" height="45"/>&nbsp;
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="45" height="45"/>&nbsp;
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit" alt="Metasploit" width="45" height="45"/>
   <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="40" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" title="WireShark" alt="WireShark" width="45" height="45"/>&nbsp;
   <img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" title="Enum4linux" alt="Enum4linux" width="45" height="45"/>&nbsp;
