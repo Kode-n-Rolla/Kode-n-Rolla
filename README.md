@@ -22,7 +22,7 @@
 
 
 ### :man_technologist: About Me : 
-I am a Cyber Offensive Security Specialist. 
+I am an Offensive Cyber Security Specialist. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
