@@ -27,7 +27,7 @@ I am an Offensive Cyber Security Specialist.
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
 
-- 🔭 Currently working on my <a href='https://github.com/Kode-n-Rolla/pentesting_time'> PenTesting</a> Repository
+- 🔭 Look at my <a href='https://github.com/Kode-n-Rolla/pentesting_time'> PenTesting</a> Repository
 
 - :computer: Exploring Technical Content Writing
 
