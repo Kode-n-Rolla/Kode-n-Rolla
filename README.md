@@ -21,8 +21,8 @@
 <h1 align='center'>Hi there 👋</h1>
 
 
-### :man_technologist: About Me : 
-I am an Offensive Cyber Security Specialist. 
+About Me : 
+<p> I am an Offensive Cyber Security Specialist. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
@@ -39,7 +39,7 @@ I am an Offensive Cyber Security Specialist.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+⚡ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
@@ -79,7 +79,7 @@ I am an Offensive Cyber Security Specialist.
 
 ---
 
-### :fire: My Stats :
+✨ My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&theme=highcontrast&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
@@ -96,7 +96,9 @@ I am an Offensive Cyber Security Specialist.
 <img src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=82a1493by8n9uz596k9v500n5qhria8g7samoqj599y93fyr&rid=giphy.gif&ct=g" width="150"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1NWQ5ZjRiM2IwMzY4ZDU0YmI0Y2YzMzExNDIwYzUxMTU5ZjQxYSZjdD1n/f3KwliaH4MLtli8z7D/giphy.gif" width="250"/>
 
-
+### :man_technologist: 
+### :hammer_and_wrench: 
+### :fire: 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
