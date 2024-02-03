@@ -33,7 +33,7 @@ About Me :
 
 - 	&#128681; Participating in CTF
 
-- 	&#128270; Bug Bounty Hunting
+- 	&#128270; Bug Hunting
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/) -->
 
