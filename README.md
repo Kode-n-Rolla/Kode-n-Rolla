@@ -22,7 +22,7 @@
 
 
 About Me : 
-<p> I am a Cyber Security Specialist. 
+<p> I am a CyberSecurity Researcher. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
