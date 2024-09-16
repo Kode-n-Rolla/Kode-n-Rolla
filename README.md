@@ -27,7 +27,7 @@ About Me :
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
 
-- 🔭 Look at my <a href='https://github.com/Kode-n-Rolla/pentesting_time'> PenTesting</a> Repository
+- 🔭 Look at my <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Offensive Cyber Security</a> Repository
 
 - :computer: Exploring Technical Content Writing
 
