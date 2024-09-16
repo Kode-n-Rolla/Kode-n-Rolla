@@ -22,12 +22,12 @@
 
 
 About Me : 
-<p> I am a CyberSecurity Researcher. 
+<p> I am a Cyber Security Researcher. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
 
-- 🔭 Look at my <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Offensive Cyber Security</a> Repository
+- 🔭 Look at my <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Offensive Security</a> Repository
 
 - :computer: Exploring Technical Content Writing
 
