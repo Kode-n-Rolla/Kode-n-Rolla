@@ -21,7 +21,7 @@
 <h1 align='center'>Hi there 👋</h1>
 
 
-:suspect:About Me : 
+:suspect: About Me : 
 <p>🔭 I am a Cyber Security Researcher. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
