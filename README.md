@@ -21,19 +21,21 @@
 <h1 align='center'>Hi there 👋</h1>
 
 
-About Me : 
-<p> I am a Cyber Security Researcher. 
+:suspect:About Me : 
+<p>🔭 I am a Cyber Security Researcher. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
 
-- 🔭 Look at my <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Offensive Security</a> Repository
+- 👀 Updating my <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Offensive Security</a> Repository
 
-- :computer: Exploring Technical Content Writing
+- 💡 Penetration Testing 
 
 - 	&#128681; Participating in CTF
 
-- 	&#128270; Bug Hunting
+- 	&#128270; Bug Bounty Hunting
+
+-  :computer: Exploring Technical Content Writing
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/) -->
 
