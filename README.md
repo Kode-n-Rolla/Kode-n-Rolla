@@ -18,7 +18,12 @@
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/111082113/196859583-e1e2e773-d7cb-452a-b947-51d5af81236e.gif" width="500" height="250"/>
 </div> -->
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/KodenRolla.png)
+
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KodenRolla.png" alt="TryHackMe Badge" hspace="20" />
+  <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
+</div>
+
 <h1 align='center'>Hi there 👋</h1>
 
 
@@ -60,29 +65,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
 </div>
-<!--   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" title="Nmap" alt="Nmap" width="60" height="60"/>&nbsp;
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" title="BurpSuite" alt="BurpSuite" width="60" height="60"/>&nbsp;
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit_Framework" alt="MSF" width="60" height="60"/>&nbsp;
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" title="Hydra" alt="Hydra" width="60" height="60"/>&nbsp;
-  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" title="WireShark" alt="WireShark" width="60" height="60"/>&nbsp;
-  <img src="https://www.kali.org/tools/enum4linux/images/enum4linux-logo.svg" title="Enum4linux" alt="Enum4linux" width="60" height="60"/>&nbsp;
-  <img src="https://www.kali.org/tools/john/images/john-logo.svg" title="JohnTheRipper" alt="JohnTheRipper" width="60" height="60"/>&nbsp;
-  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" title="HashCat" alt="HashCat" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Mozilla FireFox Brwoser" alt="Mozilla" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-</div>  -->
 
 ---
 
