@@ -19,10 +19,10 @@
   <img src="https://user-images.githubusercontent.com/111082113/196859583-e1e2e773-d7cb-452a-b947-51d5af81236e.gif" width="500" height="250"/>
 </div> -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/KodenRolla.png" alt="TryHackMe Badge" hspace="20" />
-  <!--<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />-->
-</div>
+  <!--<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
+</div>-->
 
 <h1 align='center'>Hi there 👋</h1>
 
