@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Intigriti-%23161A36?style=for-the-badge&logo=intigriti&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" />
 </div>
 <!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/">
