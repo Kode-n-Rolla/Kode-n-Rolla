@@ -4,23 +4,11 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
 </div>
 <!-- <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/paul-egin/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-<!-- <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> 
-
- <div align="center">
-  <img src="https://user-images.githubusercontent.com/111082113/196859583-e1e2e773-d7cb-452a-b947-51d5af81236e.gif" width="500" height="250"/>
-</div> -->
-
-<!--<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KodenRolla.png" alt="TryHackMe Badge" hspace="20" />
+<div align="center">
   <!--<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
 
@@ -69,6 +57,9 @@
 ---
 
 ✨ My Stats :
+<div align="left">
+  <img src="badges/KodenRolla.png" alt="THM Badge">
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&theme=highcontrast&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
