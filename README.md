@@ -64,7 +64,7 @@
 
 ✨ My Stats :
 <div>
-  <img src="badges/guru-update.png" alt="THM Badge[0xC][GURU]">
+  <img src="badges/KodenRolla-badge-update.png" alt="THM Badge[0xC][GURU]">
 </div>
 
 
