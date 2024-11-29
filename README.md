@@ -33,7 +33,7 @@
 
 - 	&#128681; Participating in CTF
 
-- 	&#128270; Bug Bounty Hunting
+- 	&#128270; Bug Hunting
 
 -  :computer: Writing about tech and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</a>
 
