@@ -27,7 +27,7 @@
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
 
-- 👀 Improving my <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Offensive Security</a> Repository
+- 👀 Improving my Offensive Security <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Repository</a>
 
 - 💡 Penetration Testing 
 
