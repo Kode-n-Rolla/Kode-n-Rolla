@@ -41,7 +41,7 @@
 
 ---
 
-⚡ Languages and Tools :
+⚡ Languages, Techs and Tools :
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/>&nbsp;
