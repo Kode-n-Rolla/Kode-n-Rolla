@@ -85,6 +85,7 @@
 <!--
 **Kode-n-Rolla/Kode-n-Rolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;>
 <img src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=82a1493by8n9uz596k9v500n5qhria8g7samoqj599y93fyr&rid=giphy.gif&ct=g" width="150"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1NWQ5ZjRiM2IwMzY4ZDU0YmI0Y2YzMzExNDIwYzUxMTU5ZjQxYSZjdD1n/f3KwliaH4MLtli8z7D/giphy.gif" width="250"/>
 
