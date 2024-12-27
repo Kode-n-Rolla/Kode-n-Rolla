@@ -67,8 +67,8 @@
 ---
 
 ✨ My Stats :
-<p><img src="badges/KodenRolla-legend.png" alt="THM Badge[0xD][LEGEND]">
-<p><img src="badges/kode-n-rolla.png" alt="HTB badge" width="400" height="90">
+<p><img src="badges/KodenRolla-legend-update.png" alt="THM Badge[0xD][LEGEND]"></p>
+<p><img src="badges/kode-n-rolla.png" alt="HTB badge" width="400" height="90"></p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&theme=highcontrast&hide_border=false&border_radius=10)](https://git.io/streak-stats)
