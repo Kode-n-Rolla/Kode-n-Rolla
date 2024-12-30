@@ -67,7 +67,7 @@
 ---
 
 ✨ My Stats :
-<p><img src="badges/KodenRolla-legend-update.png" alt="THM Badge[0xD][LEGEND]"></p>
+<p><img src="badges/KodenRolla-legend.png" alt="THM Badge[0xD][LEGEND]"></p>
 <p><img src="badges/kode-n-rolla.png" alt="HTB badge" width="400" height="90"></p>
 
 
