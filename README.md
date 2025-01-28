@@ -27,15 +27,17 @@
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
 
-- 👀 Improving my Offensive Security <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Repository</a>
+- 👀 Continuously enhancing my Offensive Security <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Repository</a>
 
-- 💡 Penetration Testing 
+- 💡 Penetration Testing
 
-- 	&#128681; Participating in CTF
+-  &#128270; Bug Hunting
 
-- 	&#128270; Bug Hunting
+-  &#128681; CTF participation
 
--  :computer: Writing about tech and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</a>
+-  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
+
+-  :computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</a>
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/) -->
 
