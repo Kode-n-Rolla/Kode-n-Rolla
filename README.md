@@ -33,6 +33,8 @@
 -  &#128270; Bug Hunting
 
 -  &#128681; CTF participation
+
+-  :computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</a>
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
 
@@ -40,7 +42,7 @@
 
 -  🦾 Developed <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>json cli filter</a>, a tool for filtering objects in JSON file
 
--  :computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</a>
+
 
 <!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
 
