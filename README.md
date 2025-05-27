@@ -21,7 +21,7 @@
 
 
 :suspect: About Me : 
-<p>🔭 I am a Cyber Security Researcher. 
+<p>🔭 I am a Offensive Security Researcher. 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
@@ -33,7 +33,7 @@
 -  &#128270; Bug Hunting
 
 -  &#128681; CTF participation
-
+<!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
 
 -  🪢 Koded <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a> for deobfuscate strings
@@ -42,7 +42,7 @@
 
 -  :computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</a>
 
-<!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-egin/) -->
+<!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
 
 ---
 
@@ -50,7 +50,7 @@
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/>&nbsp;
-  <img   src="https://camo.githubusercontent.com/1f50062b94342adb3d32718944387bdd62ec9a9e89b152cf085bdbdccd95714a/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667" title="Parrot OS" alt="Parrot OS" width="60" height="60"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/1f50062b94342adb3d32718944387bdd62ec9a9e89b152cf085bdbdccd95714a/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667" title="Parrot OS" alt="Parrot OS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
