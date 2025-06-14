@@ -20,8 +20,8 @@
 <h1 align='center'>Hi there 👋</h1>
 
 
-:suspect: About Me : 
-<p>🔭 I am a Offensive Security Researcher. 
+:suspect: Whoami : 
+<p>🔭 I am a Offensive Security Researcher and chill dude, obviously 🤙
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 <!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
@@ -35,6 +35,7 @@
 -  &#128681; CTF participation
 
 -  :computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</a>
+
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
 
