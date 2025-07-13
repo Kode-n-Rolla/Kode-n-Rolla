@@ -28,6 +28,8 @@
 
 - 👀 Continuously enhancing Offensive Security <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Repository</a>
 
+- 🧬 Web3 Decentralization fan
+
 - 💡 Penetration Testing
 
 -  &#128270; Bug Hunting 
@@ -51,6 +53,11 @@
 
 ⚡ Tech Stack:
 
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg" title="Ethereum" alt="Ethereum" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="60" height="60"/>&nbsp;
+</div>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/>&nbsp;
   <img src="https://camo.githubusercontent.com/1f50062b94342adb3d32718944387bdd62ec9a9e89b152cf085bdbdccd95714a/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667" title="Parrot OS" alt="Parrot OS" width="60" height="60"/>&nbsp;
