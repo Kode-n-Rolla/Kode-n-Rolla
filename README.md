@@ -28,13 +28,13 @@
 
 - 👀 Continuously enhancing Offensive Security <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Repository</a>
 
-- 🧬 Web3 Decentralization fan
+- 🧬 Web3 & Decentralization fan
 
 - 💡 Penetration Testing
 
--  &#128270; Bug Hunting 
+-  &#128270; Bounty Hunting 
 
--  &#128681; CTF participation
+-  &#128681; CTF Participant
 
 -  :computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</a>
 
