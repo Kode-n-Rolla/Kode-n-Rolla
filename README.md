@@ -24,10 +24,6 @@
 <p>🔭 I am a Offensive Security Researcher and chill dude, obviously 🤙
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
-<!-- - :thumbsup: Looking for a job like Penetration Tester or Application Security Engineer:keyboard: -->
-
-- 👀 Continuously enhancing Offensive Security <a href='https://github.com/Kode-n-Rolla/pentesting_time'>Repository</a>
-
 - 🧬 Web3 & Decentralization fan
 
 - 💡 Penetration Testing
