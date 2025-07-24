@@ -58,9 +58,10 @@
 </div>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/1f50062b94342adb3d32718944387bdd62ec9a9e89b152cf085bdbdccd95714a/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667" title="Parrot OS" alt="Parrot OS" width="60" height="60"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgitlab.com%2Fuploads%2F-%2Fsystem%2Fproject%2Favatar%2F35856879%2FNew-ParrotOS-logo.png&f=1&nofb=1&ipt=c2a72a21593a1e5cfaeac74278940d42a9d83e770e784454cbc001d5568c392b" title="Parrot OS" alt="Parrot OS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="60" height="60"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgitlab.com%2Fuploads%2F-%2Fsystem%2Fproject%2Favatar%2F40090554%2Fkali-burpsuite.png&f=1&nofb=1&ipt=3a10c3829c7e72a1a7daea33ed34661201b068cb71209ac985dc85bab098b95a" title="Burp" alt="Burp" width="60" height="60"/>&nbsp;
   <img src="https://caido.io/images/logo.color.webp" title="Caido" alt="Caido" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="60" height="60"/>&nbsp;
