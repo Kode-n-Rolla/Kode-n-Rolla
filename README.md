@@ -52,9 +52,9 @@
 <div>
   <img src="https://www.pngkey.com/png/full/264-2645294_download-svg-download-png-ethereum-png.png" title="Ethereum" alt="Ethereum" width="60" height="60"/>&nbsp;
   <img src="https://svgmix.com/uploads/skillicons/f41159-solidity.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;
-  <img src="https://cdn-1.webcatalog.io/catalog/remix-ide/remix-ide-icon.png?v=1714775654961" title="RemixIDE" alt="RemixIDE" width="60" height="60"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="60" height="60"/>&nbsp;
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;-->
+  <img src="https://github.com/foundry-rs/foundry/raw/master/.github/assets/banner.png" title="Foundry" alt="Foundry" width="120" height="60"/>&nbsp;
+  <!--<img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;-->
 </div>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/>&nbsp;
