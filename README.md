@@ -22,7 +22,7 @@
 
 
 :suspect: Whoami:
-<p>Offensive Security Researcher, 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
+<p>Offensive Security Researcher 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 <ul>Do:
   <li>💡 Penetration Testing, + Cloud Penetration Testing ☁️</li>
