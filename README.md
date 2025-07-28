@@ -22,10 +22,10 @@
 
 
 :suspect: Whoami:
-<p>Offensive Security Researcher 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
+<p>Offensive Security Researcher, 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 <ul>Do:
-  <li>💡 Penetration Testing, + Cloud Penetration Testing ☁️</li>
+  <li>💡 Penetration Testing + Cloud Penetration Testing ☁️</li>
   <li>&#128270; Bounty Hunting </li>
   <li>:computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</</li>
 </ul>
