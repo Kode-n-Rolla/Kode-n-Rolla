@@ -1,49 +1,49 @@
 <!-- ### Hi there 👋 -->
 
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300"/>
 </div>
-<!--<div align='center'>
+<div align='center'>
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Intigriti-%23161A36?style=for-the-badge&logo=intigriti&logoColor=white" />
   <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" />
-</div>-->
-<!-- <div id="badges" align="center">
+</div>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
-  <!--<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
+<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
-<h1 align='center'>Hi there 👋</h1>
+<h1 align='center'>Sup 👋</h1>
 
 
-:suspect: Whoami : 
-<p>🔭 I am a Offensive Security Researcher and chill dude, obviously 🤙
+:suspect: Whoami:
+<p>Offensive Security Researcher, 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+<ul>Do:
+  <li>💡 Penetration Testing, + Cloud Penetration Testing ☁️</li>
+  <li>&#128270; Bounty Hunting </li>
+  <li>:computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</</li>
+</ul>
 
-- 🧬 Web3 & Decentralization fan
-
-- 💡 Penetration Testing
-
--  &#128270; Bounty Hunting 
-
--  &#128681; CTF Participant
-
--  :computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</a>
+<ul>Kode on:
+  <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>sara</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>json cli filter</a></li>
+  <li>Go: <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
+  <li>Solidity</li>
+</ul>
 
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
-
 -  🪢 Koded <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a> for deobfuscate strings
-
--  🦾 Developed <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>json cli filter</a>, a tool for filtering objects in JSON file
-
+-  🦾 Developed <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>json cli filter</a>, a tool for filtering objects in JSON file 
 
 
-<!-- - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) -->
+
+ - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
 
 ---
 
@@ -53,8 +53,6 @@
   <img src="https://www.pngkey.com/png/full/264-2645294_download-svg-download-png-ethereum-png.png" title="Ethereum" alt="Ethereum" width="60" height="60"/>&nbsp;
   <img src="https://svgmix.com/uploads/skillicons/f41159-solidity.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;
   <img src="https://github.com/foundry-rs/foundry/raw/master/.github/assets/banner.png" title="Foundry" alt="Foundry" width="120" height="60"/>&nbsp;
-  <!--<img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;-->
 </div>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="60" height="60"/>&nbsp;
@@ -85,13 +83,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kode-n-Rolla&theme=highcontrast&hide_border=false&border_radius=10)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=500) -->
 
 
-<h2 align="center">
+<!--<h2 align="center">
   Best wishes!
-<!--   <img src="https://user-images.githubusercontent.com/111082113/196870348-87259ffc-36fa-4a46-b989-57c235b19cf4.gif" width="200"/> -->
-</h2>
+  <img src="https://user-images.githubusercontent.com/111082113/196870348-87259ffc-36fa-4a46-b989-57c235b19cf4.gif" width="200"/>
+</h2>-->
 
 <!--
 **Kode-n-Rolla/Kode-n-Rolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -102,6 +100,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;>
 <img src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=82a1493by8n9uz596k9v500n5qhria8g7samoqj599y93fyr&rid=giphy.gif&ct=g" width="150"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1NWQ5ZjRiM2IwMzY4ZDU0YmI0Y2YzMzExNDIwYzUxMTU5ZjQxYSZjdD1n/f3KwliaH4MLtli8z7D/giphy.gif" width="250"/>
+<img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;
 
 ### :man_technologist: 
 ### :hammer_and_wrench: 
