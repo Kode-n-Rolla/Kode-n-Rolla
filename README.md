@@ -21,9 +21,14 @@
 <h1 align='center'>Hey 👋</h1>
 
 ### 💽 Whoami:
-<p> :suspect: Offensive Security Researcher, 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
+<ul>
+  <li>:suspect: Offensive Security Researcher</li>
+  <li>🧬 Web3 & Decentralization fan</li>
+  <li>🤙 Chill dude</li>
 
-### 🧠 My Niches:
+</ul>
+
+### 🧠 My Ops:
 <ul>
   <li>💡 Penetration Testing & Cloud PenTesting ☁️</li>
   <li>&#128270; Bug Bounty Hunting </li>
