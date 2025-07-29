@@ -18,29 +18,42 @@
 <div align="center">
 <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
+
 <h1 align='center'>Hey 👋</h1>
-
-### 💽 Whoami:
-<ul>
-  <li>:suspect: Offensive Security Researcher</li>
-  <li>🧬 Web3 & Decentralization fan</li>
-  <li>🤙 Chill dude</li>
-
-</ul>
-
-### 🧠 My Ops:
-<ul>
-  <li>💡 Penetration Testing & Cloud PenTesting ☁️</li>
-  <li>&#128270; Bug Bounty Hunting </li>
-  <li>:computer: Writing about technology and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</</li>
-</ul>
-
-### 💾 KodeBase:
-<ul>
-  <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
-  <li>Go: <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
-  <li>Solidity</li>
-</ul>
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td valign="top" width="50%" style="border: none;">
+  
+  <h3>💽 Whoami:</h3>
+  <ul>
+    <li>:suspect: Offensive Security Researcher</li>
+    <li>🧬 Web3 & Decentralization fan</li>
+    <li>🤙 Chill dude</li>
+  </ul>
+  
+  <h3>🧠 My Ops:</h3>
+  <ul>
+    <li>💡 Penetration Testing & Cloud PenTesting ☁️</li>
+    <li>&#128270; Bug Bounty Hunting </li>
+    <li>:computer: Writing about technology and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</</li>
+  </ul>
+  
+  <h3>💾 Own Kodes:</h3>
+  <ul>
+    <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
+    <li>Go: <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
+  </ul>
+  
+  </td>
+  <td valign="top" width="60%" align="center" style="border: none;">
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=pie&theme=vision-friendly-dark&border_radius=10)
+    
+  </td>
+  </tr>
+  </table>
+</div>
 
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
