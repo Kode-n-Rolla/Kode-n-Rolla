@@ -18,20 +18,21 @@
 <div align="center">
 <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
-<h1 align='center'>Sup 👋</h1>
+<h1 align='center'>Hey 👋</h1>
 
+### 🕶️ Whoami:
+<p> :suspect: Offensive Security Researcher, 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
 
-:suspect: Whoami:
-<p>Offensive Security Researcher, 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
-<ul>Do:
-  <li>💡 Penetration Testing + Cloud Penetration Testing ☁️</li>
-  <li>&#128270; Bounty Hunting </li>
-  <li>:computer: Writing about technology and security on Meduim <a href='https://medium.com/@k0d3-n-r011a'>here</</li>
+### 🛠️ My Niches:
+<ul>
+  <li>💡 Penetration Testing & Cloud PenTesting ☁️</li>
+  <li>&#128270; Bug Bounty Hunting </li>
+  <li>:computer: Writing about technology and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</</li>
 </ul>
 
-<ul>Kode on:
-  <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>sara</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>json cli filter</a></li>
+### 💾 My Ops:
+<ul>
+  <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
   <li>Go: <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
   <li>Solidity</li>
 </ul>
@@ -102,6 +103,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1NWQ5ZjRiM2IwMzY4ZDU0YmI0Y2YzMzExNDIwYzUxMTU5ZjQxYSZjdD1n/f3KwliaH4MLtli8z7D/giphy.gif" width="250"/>
 <img src="https://avatars.githubusercontent.com/u/99892494?s=280&v=4" title="Foundry" alt="Foundry" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="60" height="60"/>&nbsp;
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### :man_technologist: 
 ### :hammer_and_wrench: 
