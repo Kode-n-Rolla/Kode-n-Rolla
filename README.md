@@ -20,17 +20,17 @@
 </div>-->
 <h1 align='center'>Hey 👋</h1>
 
-### 🕶️ Whoami:
+### 💽 Whoami:
 <p> :suspect: Offensive Security Researcher, 🧬 Web3 & Decentralization fan and chill dude 🤙</p>
 
-### 🛠️ My Niches:
+### 🧠 My Niches:
 <ul>
   <li>💡 Penetration Testing & Cloud PenTesting ☁️</li>
   <li>&#128270; Bug Bounty Hunting </li>
   <li>:computer: Writing about technology and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</</li>
 </ul>
 
-### 💾 KodeBase:
+### 💾 Native:
 <ul>
   <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
   <li>Go: <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
