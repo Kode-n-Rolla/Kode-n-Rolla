@@ -16,15 +16,13 @@
   </a>
 </div>
 <div align="center">
-<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
+<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" /> <h1 align='center'>Hey 👋</h1>
 </div>-->
 
-<h1 align='center'>Hey 👋</h1>
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td valign="top" width="60%" style="border: none;">
-  
   <h3>💽 Whoami:</h3>
   <ul>
     <li>:suspect: Offensive Security Researcher</li>
@@ -48,7 +46,7 @@
   </td>
   <td valign="middle" width="70%" align="center" style="border: none;">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=pie&theme=vision-friendly-dark&border_radius=10)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10)
     
   </td>
   </tr>
