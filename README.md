@@ -23,7 +23,7 @@
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
-      <td valign="top" width="50%" style="border: none;">
+      <td valign="top" width="60%" style="border: none;">
   
   <h3>💽 Whoami:</h3>
   <ul>
@@ -46,7 +46,7 @@
   </ul>
   
   </td>
-  <td valign="top" width="60%" align="center" style="border: none;">
+  <td valign="middle" width="70%" align="center" style="border: none;">
     
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=pie&theme=vision-friendly-dark&border_radius=10)
     
