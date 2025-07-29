@@ -16,9 +16,9 @@
   </a>
 </div>
 <div align="center">
-<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" /> <h1 align='center'>Hey 👋</h1>
+<img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
-
+<h1 align='center'>Hey 👋</h1>
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
