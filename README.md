@@ -37,7 +37,7 @@
     <li>:computer: Writing about technology and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</</li>
   </ul>
   
-  <h3>💾 Own Tools:</h3>
+  <h3>💾 By me:</h3>
   <ul>
     <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
     <li>Go: <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
