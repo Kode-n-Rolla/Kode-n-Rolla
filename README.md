@@ -39,8 +39,8 @@
   
   <h3>💾 By me:</h3>
   <ul>
-    <li>Python: <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
-    <li>Go: <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
+    <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
+    <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
     <li>Multi ➝‬ <a href='https://github.com/Kode-n-Rolla/evil-kodes'>repo</a></li>
   </ul>
   
