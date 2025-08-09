@@ -32,8 +32,8 @@
   
   <h3>🧠 My Ops:</h3>
   <ul>
-    <li>💡 Penetration Testing & Cloud PenTesting ☁️</li>
-    <li>&#128270; Bug Bounty Hunting </li>
+    <li>💡 Web & Cloud Penetration Testing ☁️</li>
+    <li>&#128270; Web3 Bug Bounty Hunting </li>
     <li>:computer: Writing about technology and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium</</li>
   </ul>
   
