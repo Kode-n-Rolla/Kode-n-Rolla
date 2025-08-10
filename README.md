@@ -25,7 +25,7 @@
       <td valign="bottom" width="60%" style="border: none;">
   <h3>💽 Whoami:</h3>
   <ul>
-    <li>:suspect: Offensive Security Researcher</li>
+    <li>:suspect: Security Researcher</li>
     <li>🧬 Web3 & Decentralization fan</li>
     <li>🤙 Chill dude</li>
   </ul>
