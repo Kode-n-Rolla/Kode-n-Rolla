@@ -48,7 +48,7 @@
   </td>
   <td valign="middle" width="50%" align="center" style="border: none;">
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+5&langs_count=5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4)
     
   </td>
   </tr>
