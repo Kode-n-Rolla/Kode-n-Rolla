@@ -34,7 +34,7 @@
   <ul>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
     <li>&#128270; Web3 Bug Bounty Hunting </li>
-    <li>:computer: Writing about technology and security on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>, <a href='https://dev.to/kode-n-rolla'>Dev.to</a></li>
+    <li>:computer: Writing about technology and security on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
   </ul>
   
   <h3>💾 By me:</h3>
