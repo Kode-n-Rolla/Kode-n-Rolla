@@ -26,7 +26,7 @@
   <h3>💽 Whoami:</h3>
   <ul>
     <li>:suspect: Security Researcher</li>
-    <li>🧬 Web3 & Decentralization fan</li>
+    <li>🧬 Tech Decentralization fan</li>
     <li>🤙 Chill dude</li>
   </ul>
   
