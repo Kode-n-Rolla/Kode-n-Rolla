@@ -43,16 +43,16 @@
     <li>Solidity ➝‬ <a href='https://github.com/Kode-n-Rolla/web3/tree/main/own_kodes/'>click</a></li>
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
   </ul>
-  
   </td>
-  <td valign="middle" width="50%" align="center" style="border: none;">
-    
+  
+  </table>
+</div>
+   <!--<td valign="middle" width="50%" align="center" style="border: none;">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4)
-    
   </td>
   </tr>
   </table>
-</div>
+</div> -->
 
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
