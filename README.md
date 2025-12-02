@@ -37,7 +37,7 @@
   <ul>
     <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
-    <li>Web3 portfolio ➝‬ <a href=''>click</a></li>
+    <li>Web3 portfolio ➝‬ <a href='localhost'>click</a></li>
   </ul>
 <!--<h1 align='center'>Hey 👋</h1>
 <div align="center">
