@@ -19,6 +19,27 @@
 <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
 <h1 align='center'>Hey 👋</h1>
+  <h3>💽 Whoami:</h3>
+  <ul>
+    <li>:suspect: Security Researcher</li>
+    <li>🧬 Tech Decentralization fan</li>
+    <li>🤙 Chill dude</li>
+  </ul>
+  
+  <h3>🧠 My Ops:</h3>
+  <ul>
+    <li>&#128270; Web3 Bug Bounty Hunting </li>
+    <li>💡 Web & Cloud Penetration Testing ☁️</li>
+    <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
+  </ul>
+  
+  <h3>💾 By me:</h3>
+  <ul>
+    <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
+    <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
+    <li>Web3 portfolio ➝‬ <a href=''>click</a></li>
+  </ul>
+<!--<h1 align='center'>Hey 👋</h1>
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
