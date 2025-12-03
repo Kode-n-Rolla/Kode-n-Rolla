@@ -23,7 +23,7 @@
   <ul>
     <li>:suspect: Security Researcher</li>
     <li>🧬 Tech Decentralization fan</li>
-    <li>🤙 Chill dude</li>
+    <li>🤙 Driven by passion for what I do</li>
   </ul>
   
   <h3>🧠 My Ops:</h3>
@@ -48,16 +48,14 @@
   <ul>
     <li>:suspect: Security Researcher</li>
     <li>🧬 Tech Decentralization fan</li>
-    <li>🤙 Chill dude</li>
   </ul>
-  
+  <!--
   <h3>🧠 My Ops:</h3>
   <ul>
     <li>&#128270; Web3 Bug Bounty Hunting </li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
     <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
   </ul>
-  
   <h3>💾 By me:</h3>
   <ul>
     <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
@@ -65,7 +63,6 @@
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
   </ul>
   </td>
-  
   </table>
 </div>
    <!--<td valign="middle" width="50%" align="center" style="border: none;">
