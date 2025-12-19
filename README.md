@@ -18,7 +18,7 @@
 <div align="center">
 <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
-<h1 align='center'>Hey 👋</h1>
+<!-- <h1 align='center'>Hey 👋</h1>
   <h3>💽 Whoami:</h3>
   <ul>
     <li>:suspect: Security Researcher</li>
@@ -38,8 +38,8 @@
     <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
     <li>Web3‬ <a href='https://github.com/Kode-n-Rolla/portfolio'>portfolio</a></li>
-  </ul>
-<!--<h1 align='center'>Hey 👋</h1>
+  </ul> -->
+<h1 align='center'>Hey 👋</h1>
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
@@ -48,8 +48,8 @@
   <ul>
     <li>:suspect: Security Researcher</li>
     <li>🧬 Tech Decentralization fan</li>
+    <li>🤙 Driven by passion for what I do</li>
   </ul>
-  <!--
   <h3>🧠 My Ops:</h3>
   <ul>
     <li>&#128270; Web3 Bug Bounty Hunting </li>
@@ -59,18 +59,19 @@
   <h3>💾 By me:</h3>
   <ul>
     <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
-    <li>Solidity ➝‬ <a href='https://github.com/Kode-n-Rolla/web3/tree/main/own_kodes/'>click</a></li>
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
+    <li>Web3‬ <a href='https://github.com/Kode-n-Rolla/portfolio'>portfolio</a></li>
   </ul>
   </td>
-  </table>
-</div>
-   <!--<td valign="middle" width="50%" align="center" style="border: none;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4)
+
+   <td valign="middle" width="50%" align="center" style="border: none;">
+<a href="https://github.com/Kode-n-Rolla/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4" />
+</a>
   </td>
   </tr>
   </table>
-</div> -->
+</div>
 
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
