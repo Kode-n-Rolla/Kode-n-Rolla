@@ -18,7 +18,7 @@
 <div align="center">
 <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
-<!-- <h1 align='center'>Hey 👋</h1>
+ <h1 align='center'>Hey 👋</h1>
   <h3>💽 Whoami:</h3>
   <ul>
     <li>:suspect: Security Researcher</li>
@@ -38,7 +38,8 @@
     <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
     <li>Web3‬ <a href='https://github.com/Kode-n-Rolla/portfolio'>portfolio</a></li>
-  </ul> -->
+  </ul>
+  <!--
 <h1 align='center'>Hey 👋</h1>
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
@@ -71,7 +72,7 @@
   </td>
   </tr>
   </table>
-</div>
+</div> -->
 
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
