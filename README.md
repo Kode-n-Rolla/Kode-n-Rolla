@@ -64,7 +64,6 @@
     <li>Web3‬ <a href='https://github.com/Kode-n-Rolla/portfolio'>portfolio</a></li>
   </ul>
   </td>
-
    <td valign="middle" width="50%" align="center" style="border: none;">
 <a href="https://github.com/Kode-n-Rolla/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4" />
