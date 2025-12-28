@@ -28,7 +28,7 @@
   
   <h3>🧠 My Ops:</h3>
   <ul>
-    <li>&#128270; Smart-Contracts audit</li>
+    <li>&#128270; Smart Contracts audit</li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
     <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
   </ul>
