@@ -30,7 +30,6 @@
   <ul>
     <li>&#128270; Smart Contracts audit</li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
-    <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
   </ul>
   
   <h3>💾 By me:</h3>
@@ -38,6 +37,7 @@
     <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
     <li>Web3‬ <a href='https://github.com/Kode-n-Rolla/portfolio'>portfolio</a></li>
+    <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
   </ul>
   <!--
 <h1 align='center'>Hey 👋</h1>
