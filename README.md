@@ -43,7 +43,7 @@
   
 <h1 align='center'>Hey 👋</h1>
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
+  <table width="100%"; style="border: none; border-collapse: collapse;">
     <tr>
       <td valign="bottom" width="60%" style="border: none;">
   <h3>💽 Whoami:</h3>
