@@ -18,6 +18,7 @@
 <div align="center">
 <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
+<!--
  <h1 align='center'>Hey 👋</h1>
   <h3>💽 Whoami:</h3>
   <ul>
@@ -38,8 +39,8 @@
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
     <li>Solidity ➝‬‬ <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cryptozombies'>CryptoZombies</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a></li>
     <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
-  </ul>
-  <!--
+  </ul> -->
+  
 <h1 align='center'>Hey 👋</h1>
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
@@ -55,13 +56,13 @@
   <ul>
     <li>&#128270; Web3 Bug Bounty Hunting </li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
-    <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
   </ul>
   <h3>💾 By me:</h3>
   <ul>
     <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
     <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
-    <li>Web3‬ <a href='https://github.com/Kode-n-Rolla/portfolio'>portfolio</a></li>
+    <li>Solidity ➝‬‬ <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cryptozombies'>CryptoZombies</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a></li>
+    <li>:computer: Writing about <code>Web3</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
   </ul>
   </td>
    <td valign="middle" width="50%" align="center" style="border: none;">
@@ -71,7 +72,7 @@
   </td>
   </tr>
   </table>
-</div> -->
+</div>
 
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
