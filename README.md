@@ -54,7 +54,7 @@
   </ul>
   <h3>🧠 My Ops:</h3>
   <ul>
-    <li>&#128270; Web3 Bug Bounty Hunting </li>
+    <li>&#128270; Smart Contracts audit</li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
   </ul>
   <h3>💾 By me:</h3>
