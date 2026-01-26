@@ -50,7 +50,7 @@
   <ul>
     <li>:suspect: Security Researcher</li>
     <li>🧬 Tech Decentralization fan</li>
-    <li>🤙 Driven by passion for what I do</li>
+    <li>💪 Hands-on security research</li>
   </ul>
   <h3>🧠 My Ops:</h3>
   <ul>
