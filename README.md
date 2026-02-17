@@ -33,12 +33,14 @@
   </ul>
   
   <h3>⌨️ Crafted by me:</h3>
-  <ul>
-    <li>Python ➝‬ <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a></li>
-    <li>Go ➝‬ <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a></li>
-    <li>Solidity ➝‬‬ <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cryptozombies'>CryptoZombies</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a></li>
-    <li>:computer: Writing about <code>Web3 Security</code> on <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a> and <code>Web2</code> on <a href='https://medium.com/@k0d3-n-r011a'>Medium<a></li>
-  </ul>
+
+|            | Web2                                                                                                                                   | Web3                                                          |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> |
+| Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                                            |                                                               |
+| Solidity   |                                                                                                                                        | <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cryptozombies'>CryptoZombies</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a> |
+| Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                                                   | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>     |
+  
 <!--  
 <h1 align='center'>Hey 👋</h1>
 <div align="center">
