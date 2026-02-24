@@ -36,7 +36,7 @@
 
 |            | Web2                                                                                                                                   | Web3                                                          |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON CLI filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> |
+| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON_CLI_filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> |
 | Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                                            |                                                               |
 | Solidity   |                                                                                                                                        | <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cryptozombies'>CryptoZombies</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a> |
 | Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                                                   | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>     |
