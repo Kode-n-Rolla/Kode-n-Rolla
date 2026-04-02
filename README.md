@@ -75,6 +75,8 @@
   </table>
 </div>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=500) -->
+
 <!--
 -  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
 -  🪢 Koded <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a> for deobfuscate strings
