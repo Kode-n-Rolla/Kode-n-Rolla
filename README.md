@@ -62,6 +62,7 @@
 | Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON_CLI_filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> | <a href='https://github.com/Kode-n-Rolla/kode-evolution/tree/main/python'>Playground</a>     |
 | Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                                            |                                                               |<a href='https://github.com/Kode-n-Rolla/kode-evolution/tree/main/go'>Sandbox</a>      |
 | Solidity   |                                                                                                                                        | <a href='https://github.com/Kode-n-Rolla/zombie-game'>Zombie Game</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a> |
+| Rust       |                                                                                                                                       |                         | <a href='https://github.com/Kode-n-Rolla/rustaurant'>Rustaurant</a> |
 | Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                                                   | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>     |      |
   
   </td>
