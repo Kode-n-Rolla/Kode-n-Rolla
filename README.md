@@ -68,7 +68,7 @@
   </td>
    <td valign="middle" width="50%" align="center" style="border: none;">
 <a href="https://github.com/Kode-n-Rolla/convoychat">
-  <img height=300 align="center" src="https://github.com/Kode-n-Rolla/Kode-n-Rolla/blob/main/badges/complete-green-dice-final.png" />
+  <img height=300 align="center" src="https://github.com/Kode-n-Rolla/Kode-n-Rolla/blob/main/badges/purple_20d.png" />
 </a>
   </td>
   </tr>
