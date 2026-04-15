@@ -75,13 +75,10 @@
   </table>
 </div>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kode-n-Rolla&layout=compact&theme=vision-friendly-dark&border_radius=10&card_width=500) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4) -->
 
 <!--
--  🤯 Created <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, an offensive security tool for efficiently finding endpoints
--  🪢 Koded <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a> for deobfuscate strings
--  🦾 Developed <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>json cli filter</a>, a tool for filtering objects in JSON file 
-
+-  🤯 🪢 🦾 
 
 
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-click_-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
