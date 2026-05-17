@@ -45,8 +45,8 @@
       <td valign="bottom" width="60%" style="border: none;">
   <h3>💽 Whoami:</h3>
   <ul>
-    <li>🧠Pragmatic Programmer🫀</li>
-    <li>:suspect: Security Researcher</li>
+    <li>:suspect: Security Enginner</li>
+    <li>🧠 Pragmatic Programmer🫀</li>
     <li>🧬 Tech Decentralization fan</li>
   </ul>
   
