@@ -50,7 +50,7 @@
     <li>🧬 Tech Decentralization fan</li>
   </ul>
   
-  <h3>🧠 My Ops:</h3>
+  <h3>🛠️ My Ops:</h3>
   <ul>
     <li>&#128270; Smart Contracts audit/dev </li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
