@@ -58,13 +58,13 @@
   
   <h3>⌨️ Crafted by me:</h3>
 
-|            | Web2                                                                                                                                   | Web3                                                          | Labs |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|------|
-| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON_CLI_filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> | <a href='https://github.com/Kode-n-Rolla/kode-evolution/tree/main/python'>Playground</a>     |
-| Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                                            |                                                               |<a href='https://github.com/Kode-n-Rolla/kode-evolution/tree/main/go'>Sandbox</a>      |
+|            | Web2                                                                                                                                   | Web3                                                          |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON_CLI_filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> |
+| Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                                            |                                                               |
 | Solidity   |                                                                                                                                        | <a href='https://github.com/Kode-n-Rolla/zombie-game'>Zombie Game</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a> |
-| Rust       |   <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                                          |  [shuka](https://github.com/Kode-n-Rolla/shuka)                                                              | <a href='https://github.com/Kode-n-Rolla/rustaurant'>Rustaurant</a> |
-| Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                                                   | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>     |      |
+| Rust       |   <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                                          |  [shuka](https://github.com/Kode-n-Rolla/shuka)               |
+| Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                                                   | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>     |
   
   </td>
    <td valign="middle" width="50%" align="center" style="border: none;">
