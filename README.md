@@ -45,7 +45,7 @@
       <td valign="bottom" width="60%" style="border: none;">
   <h3>💽 Whoami:</h3>
   <ul>
-    <li>:suspect: Security Enginner</li>
+    <li>:suspect: Security Engineer</li>
     <li>🧠 Pragmatic Programmer 🫀</li>
     <li>🧬 Tech Decentralization fan</li>
   </ul>
@@ -58,13 +58,13 @@
   
   <h3>⌨️ Crafted by me:</h3>
 
-|            | Web2                                                                                                                                   | Web3                                                          |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON_CLI_filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> |
-| Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                                            |                                                               |
-| Solidity   |                                                                                                                                        | <a href='https://github.com/Kode-n-Rolla/zombie-game'>Zombie Game</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a> |
-| Rust       |   <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                                          |  [shuka](https://github.com/Kode-n-Rolla/shuka)               |
-| Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                                                   | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>     |
+|            | Web2                                                                                                               | Web3                                                                  |
+|------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>                                                            | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a>         |
+| Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                        |                                                                       |
+| Solidity   |                                                                                                                    | <a href='https://github.com/Kode-n-Rolla/zombie-game'>Zombie Game</a> |
+| Rust       |   <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                      |  [shuka](https://github.com/Kode-n-Rolla/shuka)                       |
+| Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                               | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>             |
   
   </td>
    <td valign="middle" width="50%" align="center" style="border: none;">
