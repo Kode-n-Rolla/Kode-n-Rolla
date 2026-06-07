@@ -65,6 +65,7 @@
 | Rust       |   <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                      |  [shuka](https://github.com/Kode-n-Rolla/shuka)                       |
 | Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                               | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>             |
   
+- Engineering notes on <a href='https://dev.to/kode-n-rolla'>dev.to</a>
   </td>
    <td valign="middle" width="50%" align="center" style="border: none;">
 <!-- <a href="https://github.com/Kode-n-Rolla/convoychat"> -->
@@ -74,6 +75,7 @@
   </tr>
   </table>
 </div>
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4) -->
 
