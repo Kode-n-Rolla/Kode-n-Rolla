@@ -45,7 +45,7 @@
       <td valign="bottom" width="60%" style="border: none;">
   <h3>💽 Whoami:</h3>
   <ul>
-    <li>:suspect: Security Engineer</li>
+    <li>:suspect: Security Engineer [ <a href='https://gitlab.com/kode-n-rolla'>lab</a>, <a href='https://dev.to/kode-n-rolla'>notes</a> ]</li>
     <li>🧠 Pragmatic Programmer 🫀</li>
     <li>🧬 Tech Decentralization fan</li>
   </ul>
@@ -65,7 +65,6 @@
 | Rust       |   <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                      |  [shuka](https://github.com/Kode-n-Rolla/shuka)                       |
 | Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                               | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>             |
   
-- Engineering notes on <a href='https://dev.to/kode-n-rolla'>dev.to</a>
   </td>
    <td valign="middle" width="50%" align="center" style="border: none;">
 <!-- <a href="https://github.com/Kode-n-Rolla/convoychat"> -->
