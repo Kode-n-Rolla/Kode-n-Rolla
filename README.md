@@ -45,6 +45,7 @@
       <td valign="bottom" width="60%" style="border: none;">
   <h3>💽 Whoami:</h3>
   <ul>
+    <li>🦀 Rustacean </li>
     <li>:suspect: Security Engineer [ <a href='https://gitlab.com/kode-n-rolla'>lab</a>, <a href='https://dev.to/kode-n-rolla'>notes</a> ]</li>
     <li>🧠 Pragmatic Programmer 🫀</li>
     <li>🧬 Tech Decentralization fan</li>
