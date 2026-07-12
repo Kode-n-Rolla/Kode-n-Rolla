@@ -55,7 +55,7 @@
   <ul>
     <li>&#128270; Smart Contracts audit/dev</li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
-    <li>🛠️ Build Secure Systems </li>
+    <li>🛠️ Building Secure Systems</li>
   </ul>
   
   <h3>⌨️ Crafted by me:</h3>
