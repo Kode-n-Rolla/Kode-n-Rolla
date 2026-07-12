@@ -64,7 +64,7 @@
 |------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>                                                            | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a>         |
 | Solidity   |                                                                                                                    | <a href='https://github.com/Kode-n-Rolla/zombie-game'>Zombie Game</a> |
-| Rust       | <a href='https://github.com/Kode-n-Rolla/cerebro'>Cerebro</a>, <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                      |  [shuka](https://github.com/Kode-n-Rolla/shuka)                       |
+| Rust       | <a href='https://github.com/Kode-n-Rolla/cerebro'>Cerebro</a>, <a href='https://github.com/Kode-n-Rolla/solana-token-risk-lens'>Solana Token Risk Lens</a>                      | [DeStor](https://github.com/Kode-n-Rolla/destor), [shuka](https://github.com/Kode-n-Rolla/shuka)                       |
 | Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                               | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>             |
   
   </td>
