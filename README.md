@@ -53,9 +53,9 @@
   
   <h3>💪 My Ops:</h3>
   <ul>
+    <li>🛠️ Building Secure Systems</li>
     <li>&#128270; Smart Contracts audit/dev</li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
-    <li>🛠️ Building Secure Systems</li>
   </ul>
   
   <h3>⌨️ Crafted by me:</h3>
