@@ -20,24 +20,6 @@
 </div>-->
 
  <h1 align='center'>Hey 👋</h1>
- <!-- <h3>💽 Whoami:</h3>
-  <ul>
-    <li>:suspect: Security Researcher</li>
-    <li>🧬 Tech Decentralization fan</li>
-  </ul>
-  <h3>🧠 My Ops:</h3>
-  <ul>
-    <li>&#128270; Smart Contracts audit</li>
-    <li>💡 Web & Cloud Penetration Testing ☁️</li>
-  </ul>
-  <h3>⌨️ Crafted by me:</h3>
-|            | Web2                                                                                                                                   | Web3                                                          |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| Python     | <a href='https://github.com/Kode-n-Rolla/sara'>SARA</a>, <a href='https://github.com/Kode-n-Rolla/json_cli_filter'>JSON_CLI_filter</a> | <a href='https://github.com/Kode-n-Rolla/scarlet'>SCARLET</a> |
-| Go         | <a href='https://github.com/Kode-n-Rolla/deobfu'>DeObFU</a>                                                                            |                                                               |
-| Solidity   |                                                                                                                                        | <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cryptozombies'>CryptoZombies</a>, <a href='https://github.com/Kode-n-Rolla/portfolio/tree/main/cyfrin_updraft_nft_challenges'>PoCs</a> |
-| Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                                                   | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>     |
-  -->
 
 <div align="center">
   <table width="100%"; style="border: none; border-collapse: collapse;">
@@ -58,7 +40,7 @@
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
   </ul>
   
-  <h3>⌨️ Crafted by me:</h3>
+<!--  <h3>⌨️ Crafted by me:</h3>
 
 |            | Web2                                                                                                               | Web3                                                                  |
 |------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -67,7 +49,7 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="16" height="16" alt="Solidity"> Solidity   | --- | <a href='https://github.com/Kode-n-Rolla/zombie-game'>Zombie Game</a> |
 | Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                               | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>             |
   
-  </td>
+  </td> -->
    <td valign="middle" width="50%" align="center" style="border: none;">
 <!-- <a href="https://github.com/Kode-n-Rolla/convoychat"> -->
   <img height=300 align="center" src="https://github.com/Kode-n-Rolla/Kode-n-Rolla/blob/main/badges/purple_20d.png" />
