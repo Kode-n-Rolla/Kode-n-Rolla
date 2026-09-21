@@ -28,7 +28,7 @@
   <h3>💽 Whoami:</h3>
   <ul>
     <li>🦀 Rustacean </li>
-    <li>:suspect: Security Engineer [ <a href='https://gitlab.com/users/kode-n-rolla/projects'>laboratory</a>, <a href='https://dev.to/kode-n-rolla'>notes</a> ]</li>
+    <li>:suspect: Security Engineer [ <a href='https://gitlab.com/users/kode-n-rolla/projects'> GitLab</a> ]</li>
     <li>🧠 Pragmatic Programmer 🫀</li>
     <li>🧬 Tech Decentralization fan</li>
   </ul>
