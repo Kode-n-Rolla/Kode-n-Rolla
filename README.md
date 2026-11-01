@@ -27,7 +27,7 @@
       <td valign="bottom" width="60%" style="border: none;">
   <h3>💽 Whoami:</h3>
   <ul>
-    <li>🦀 Rustacean </li>
+    <li>🦀 Rustacean with a C# edge 🔪 </li>
     <li>:suspect: Security Engineer [ <a href='https://gitlab.com/users/kode-n-rolla/projects'> GitLab</a>oratory ]</li>
     <li>🧠 Pragmatic Programmer 🫀</li>
     <li>🧬 Tech Decentralization fan</li>
