@@ -79,7 +79,7 @@
 
 **Recon 🔎 → Hypothesis 🤔 → Validation ‼️ → Impact 🔨 → Remediation ⛑️ → Retesting 🧪**
 
-I care about explaining *why* a weakness exists, how it can be reproduced and what a team can do to fix it—not just running tools or collecting flags.
+I care about explaining *why* a weakness exists, how it can be reproduced and what a team can do to fix it - not just running tools or collecting flags.
 
 ---
 
