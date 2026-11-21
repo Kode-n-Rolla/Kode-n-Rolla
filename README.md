@@ -19,7 +19,7 @@
 <img src="https://www.hackthebox.eu/badge/image/1475593" alt="Hack The Box Badge" hspace="20" />
 </div>-->
 
- <h1 align='center'>Hey 👋</h1>
+<!-- <h1 align='center'>Hey 👋</h1>
 
 <div align="center">
   <table width="100%"; style="border: none; border-collapse: collapse;">
@@ -33,14 +33,14 @@
     <li>🧬 Tech Decentralization fan</li>
   </ul>
   
-  <h3>💪 My Ops:</h3>
+<!--   <h3>💪 My Ops:</h3>
   <ul>
     <li>🛠️ Building Secure Systems</li>
     <li>&#128270; Smart Contracts audit/dev</li>
     <li>💡 Web & Cloud Penetration Testing ☁️</li>
   </ul>
   
-<!--  <h3>⌨️ Crafted by me:</h3>
+ <h3>⌨️ Crafted by me:</h3>
 
 |            | Web2                                                                                                               | Web3                                                                  |
 |------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
@@ -49,14 +49,41 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="16" height="16" alt="Solidity"> Solidity   | --- | <a href='https://github.com/Kode-n-Rolla/zombie-game'>Zombie Game</a> |
 | Writing on | <a href='https://medium.com/@k0d3-n-r011a'>Medium<a>                                                               | <a href='https://kode-n-rolla.hashnode.dev/'>Hashnode</a>             |
   
-  </td> -->
+  </td>
    <td valign="middle" width="50%" align="center" style="border: none;">
-<!-- <a href="https://github.com/Kode-n-Rolla/convoychat"> -->
+<!-- <a href="https://github.com/Kode-n-Rolla/convoychat">
     <img width="250" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+Usage&langs_count=6&hide=css,shell,html,powershell,javascript" />
   </td>
   </tr>
   </table>
+</div> -->
+
+<div align="center">
+
+# Kode-n-Rolla
+
+**Penetration Tester | Web, API & AWS Security**
+
+Offensive security specialist with 3+ years of experience in web/API penetration testing, AWS assessments, AI security, vulnerability validation, PoC development and reporting.
+
+[Portfolio](https://kode-n-rolla.github.io/) · [LinkedIn](https://www.linkedin.com/in/pavel-egin/) · [Email](mailto:pavel.egin@kodenrolla.com)
+
 </div>
+
+## What I work on
+
+- **Web & API penetration testing:** attack-surface mapping, authentication and authorization, business logic, vulnerability validation and retesting.
+- **Cloud security assessments:** AWS permissions, storage and exposed services.
+- **AI Security**: Attacking, Defending, and Securing Modern AI Systems
+- **Security research & tooling:** reconnaissance, PoCs and research tools built with Rust, C# and Python.
+
+## Approach
+
+**Recon 🔎 → Hypothesis 🤔 → Validation ‼️ → Impact 🔨 → Remediation ⛑️ → Retesting 🧪**
+
+I care about explaining *why* a weakness exists, how it can be reproduced and what a team can do to fix it—not just running tools or collecting flags.
+
+---
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kode-n-Rolla&layout=donut-vertical&theme=vision-friendly-dark&border_radius=10&custom_title=Top+4&langs_count=4) -->
