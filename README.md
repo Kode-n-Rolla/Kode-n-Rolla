@@ -62,9 +62,7 @@
 
 # Kode-n-Rolla
 
-**Penetration Tester | Web, API & AWS Security**
-
-Offensive security specialist with 3+ years of experience in web/API penetration testing, AWS assessments, AI security, vulnerability validation, PoC development and reporting.
+**Penetration Tester | Web, API, AWS & AI Security**
 
 [Portfolio](https://kode-n-rolla.github.io/) · [LinkedIn](https://www.linkedin.com/in/pavel-egin/) · [Email](mailto:pavel.egin@kodenrolla.com)
 
